@@ -54,7 +54,7 @@ const NavBar = () => {
           {/* Logo and Product button */}
           <div className="flex items-center gap-7">
             <a href="#">
-            <img src="/img/image.png" alt="logo" className="w-36" />
+            <img src="/img/image.png" alt="logo" className="w-35" />
             </a>
             {/* Update: Adding the Contact button as a link */}
             <a
